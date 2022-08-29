@@ -21,7 +21,7 @@ window.onscroll=function (){
 
 }
 //for counter deal
-let countdate=new Date('august 1,2022 00:00:00').getTime();
+let countdate=new Date('october 1,2022 00:00:00').getTime();
 let gap;
 function countDown() {
 
